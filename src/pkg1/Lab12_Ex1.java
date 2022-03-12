@@ -1,9 +1,8 @@
 package pkg1;
 
 public class Lab12_Ex1 {
-
-	public static void main(String[] args) {
-
+	
+public static void main(String[] args) {
  String s1 = "Hello upes";
  char c[]= {'h','e','l','l','o'};
  String s2= new String("Hello"); 
