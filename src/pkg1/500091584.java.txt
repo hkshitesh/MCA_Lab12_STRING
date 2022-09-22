@@ -1,0 +1,7 @@
+public class ujjwal
+{
+public static void main(String[] args)
+{
+System.out.println("generating the pull request by UJJWAL KUMAR GUPTA");
+}
+}
